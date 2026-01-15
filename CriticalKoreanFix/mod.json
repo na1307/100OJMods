@@ -1,0 +1,15 @@
+{
+    "ModDefinition": {
+        "name": "한국어 오역 수정",
+        "description": "치명적인 한국어 오역 몇 가지를 수정합니다.\n\n옵션에서 언어를 '한국어 (수정)'으로 설정하세요.\n\n변경 사항들은 고정된 스레드를 참고하시기 바랍니다.",
+        "author": "Bluehill",
+        "system_version": 2,
+        "mod_version": "1.0.2-v3.28.1",
+        "changelog": "최초 버전."
+    },
+    "CustomLanguages": {
+        "directories": [
+            "ko_fixed"
+        ]
+    }
+}
