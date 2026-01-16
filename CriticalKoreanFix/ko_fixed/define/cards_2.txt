@@ -556,7 +556,7 @@ flavor="내 우아한 공격을 받아낼 수 있을까?" ―포메라니우스
 
 < CARD_BANNER_ENERGYDRINK >
 name=에너지 드링크 기운이 솟아나요
-descr=모든 플레이어가 회복값 -1을 얻는다.
+descr=모든 플레이어가 부활값 -1을 얻는다.
 flavor="아침까지 놀 수 있어!" ―포요
 
 < CARD_BANNER_LOCATIONFEE >

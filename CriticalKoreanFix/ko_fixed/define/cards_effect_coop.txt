@@ -52,7 +52,7 @@ descr=다음 행동을 넘긴다.
 
 < CARD_COOP_FINALSURGERY_EFFECT >
 name=마무리 수술
-descr=부활 시까지 회복값 -2를 얻는다.
+descr=부활 시까지 부활값 -2를 얻는다.
 
 < CARD_COOP_STEALTHON_EFFECT >
 name=스텔스 온

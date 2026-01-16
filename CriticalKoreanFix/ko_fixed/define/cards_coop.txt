@@ -579,8 +579,8 @@ descr=보스가 피해를 받을 때 가해 플레이어에게 그만큼의 피�
 flavor=
 
 < CARD_BOSS_COOP_RECOVERY_DOWN >
-name=회복 다운
-descr=모든 플레이어의 회복값을 1 높인다.
+name=부활 다운
+descr=모든 플레이어의 부활값을 1 높인다.
 flavor=
 
 < CARD_BOSS_COOP_EMP >
