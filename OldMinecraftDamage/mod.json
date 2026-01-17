@@ -1,0 +1,15 @@
+{
+    "ModDefinition": {
+        "name": "Old Minecraft damage sound",
+        "description": "Replaces damage sounds with old Minecraft damage sounds.",
+        "author": "Bluehill",
+        "system_version": 2,
+        "color": "#70B237"
+    },
+    "ModReplacements": {
+        "sound_effects": [
+            "hit.wav",
+            "criticalhit.wav"
+        ]
+    }
+}
