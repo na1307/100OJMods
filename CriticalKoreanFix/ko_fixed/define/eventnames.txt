@@ -29,7 +29,7 @@
 혼돈 모드
 
 < EVENTNAME_S3_TAGTEAM_MODE >
-방과후 위기
+방과후 크라이시스
 
 < EVENTNAME_WINTER2023 >
 기억 고치기
