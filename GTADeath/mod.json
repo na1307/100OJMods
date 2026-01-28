@@ -1,0 +1,13 @@
+{
+    "ModDefinition": {
+        "name": "GTA 5 death sound",
+        "description": "Replaces KO sounds with GTA 5 death sounds.",
+        "author": "Bluehill",
+        "system_version": 2
+    },
+    "ModReplacements": {
+        "sound_effects": [
+            "ko.wav"
+        ]
+    }
+}
