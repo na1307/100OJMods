@@ -111,6 +111,9 @@
 < MENU_BUTTON_LOBBYLIST_FIELDNAME >
 필드명
 
+< MENU_BUTTON_LOBBYLIST_ENABLEPRIVATELOBBIES >
+비공개 로비 표시
+
 < MENU_BUTTON_LOBBYLIST_HW2018 >
 트릭 앤 트리트
 
@@ -169,10 +172,10 @@ CPU 대상 이벤트 넘기기
 파트너 회복 지연시간
 
 < MENU_BUTTON_GAME_RETURN >
-돌아간다
+돌아가기
 
 < MENU_BUTTON_GAME_CONFIG >
-환경설정
+옵션
 
 < MENU_BUTTON_GAME_RETIRE >
 퇴장
@@ -486,7 +489,7 @@ KO 시 팀 소지 스타의 1/8을 잃습니다. 유닛은 아무 플레이어�
 
 < PLAYMENU_EVENT_SUMMER2018_CLASSINFO_SUPPORT >
 지원가\n\n부활: 동료의 칸을 지나가면서 1HP를 회복시키거나 스타를 지불하고 그 동료를 부활시킬 수 있음\n노르마 2: 이동력 +1 \n노르마 4: 이동력 +1
-	
+
 < PLAYMENU_EVENT_SUMMER2018_CLASSINFO_AVENGER >
 복수자\n\n복수: 배틀에서 잃은 HP 1당 공격력 +1\n노르마 2: 최대 HP +1\n노르마 4: 최대 HP +1\n보스 HP +10
 
@@ -575,10 +578,7 @@ KO 시 팀 소지 스타의 1/8을 잃습니다. 유닛은 아무 플레이어�
 보스는 마음대로 바꿀 수 있는 4가지 난이도 레벨이 있습니다. 난이도가 높을수록 보스도 더 강한 능력을 씁니다! 또 승리 시 더 많은 경험치와 오렌지를 받습니다.
 
 < PLAYMENU_EVENT_SPRING2019_INSTRUCTION_03 >
-선택할 수 있는 필드의 폭이 보스와 난이도에 따라 달라집니다.\n
-캐주얼: 보유 중인 아무 일반 필드에서 진행합니다.\n
-노멀과 익스트림: 새 협동전 필드에서 진행합니다.\n
-하이퍼: 각 보스 전용 필드에서 진행합니다.\n
+선택할 수 있는 필드의 폭이 보스와 난이도에 따라 달라집니다.\n캐주얼: 보유 중인 아무 일반 필드에서 진행합니다.\n노멀과 익스트림: 새 협동전 필드에서 진행합니다.\n하이퍼: 각 보스 전용 필드에서 진행합니다.\n
 
 < PLAYMENU_EVENT_SPRING2019_INSTRUCTION_04 >
 하이퍼 난이도 보스는 고유의 강한 능력도 지니고 있습니다... 진짜 도전을 원할 때만 시도하세요!
@@ -1351,6 +1351,9 @@ CPU 편집
 
 < MENU_CODEXSTORY_TITLE_ALTENICO >
 밤하늘 아래의 보물
+
+< MENU_CODEXSTORY_TITLE_MUSHROOMWAR >
+버섯 전쟁
 
 < MENU_CODEXSTORY_UNLOCKCOND_1UNIT >
 {1}(으)로 게임 {0}판 플레이.
