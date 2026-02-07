@@ -525,7 +525,7 @@ name=퇴근
 descr=다음 턴을 넘긴다.
 
 < CARD_HOMEIMPROVER_EFFECT >
-name=집단장
+name=집 단장
 descr=효과 만료 시 무작위로 홈 패널 위치를 교환한다.
 
 < CARD_LUCKYSEVENS_EFFECT >
